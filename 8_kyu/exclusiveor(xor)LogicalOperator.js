@@ -13,3 +13,11 @@ console.log(xor(false, false))
 console.log(xor(true, false))
 console.log(xor(false, true))
 console.log(xor(true, true))
+
+
+
+// BEST PRACTICE 
+// function xor(a, b) {
+//     // TODO: Program Me
+//     return a != b;
+// }
